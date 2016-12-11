@@ -2,6 +2,8 @@
 
 # JavaScript30
 
+My forked version of javascript30 course. The code I wrote in the lessons was commited using the -MY-VERSION suffix.
+
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge. 
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
